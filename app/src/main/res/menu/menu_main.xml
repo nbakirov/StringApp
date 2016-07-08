@@ -1,0 +1,63 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="kg.magnit.stringapp.MainActivity">
+    <item
+        android:id="@+id/compareTo"
+        android:orderInCategory="100"
+        android:title="@string/compareto"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/compareToIgnoreCase"
+        android:orderInCategory="110"
+        android:title="@string/compareToIgnoreCase"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/contains"
+        android:orderInCategory="110"
+        android:title="@string/contains"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/endsWith"
+        android:orderInCategory="110"
+        android:title="@string/endsWith"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/startsWith"
+        android:orderInCategory="110"
+        android:title="@string/startsWith"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/equals"
+        android:orderInCategory="110"
+        android:title="@string/equals"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/indexOf"
+        android:orderInCategory="110"
+        android:title="@string/indexOf"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/lastIndexOf"
+        android:orderInCategory="110"
+        android:title="@string/lastIndexOf"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/replace"
+        android:orderInCategory="110"
+        android:title="@string/replace"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/substring"
+        android:orderInCategory="110"
+        android:title="@string/substring"
+        app:showAsAction="never" />
+
+
+</menu>
